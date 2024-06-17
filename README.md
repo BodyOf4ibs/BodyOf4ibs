@@ -16,4 +16,4 @@ Eu sou Alex, um entusiasta de GoLang e especialista em Segurança da Informaçã
 
 ## Contato
 
-- 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/alexismael)) | [Instagram](https://www.instagram.com/alexismaelb)
+- 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/alexismael) | [Instagram](https://www.instagram.com/alexismaelb)
