@@ -2,8 +2,8 @@
 
 Eu sou Alex, um entusiasta de GoLang e especialista em Segurança da Informação.
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=cobalt)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=BodyOf4ibs&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodyOf4ibs&layout=compact&theme=cobalt)
 
 ## Sobre Mim
 
