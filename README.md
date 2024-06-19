@@ -21,4 +21,4 @@ Eu sou Alex, um entusiasta de GoLang e especialista em Segurança da Informaçã
 
 - 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/alexismael) | [Instagram](https://www.instagram.com/alexismaelb)
 
-![Snake animation](https://github.com/BodyOf4ibs/BodyOf4ibs/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/BodyOf4ibs/BodyOf4ibs/blob/output/github-contribution-grid-snake2.svg)
