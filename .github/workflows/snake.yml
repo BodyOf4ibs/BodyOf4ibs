@@ -19,10 +19,10 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: github-contribution-grid-snake.svg
+          output: dist/snake.svg
 
       - name: Push Snake Animation to output branch
         uses: actions/upload-artifact@v2
         with:
           name: snake
-          path: github-contribution-grid-snake.svg
+          path: dist/snake.svg
