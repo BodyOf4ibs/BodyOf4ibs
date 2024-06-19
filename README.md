@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil!
 
 Eu sou Alex, um entusiasta de GoLang e especialista em Segurança da Informação.
-
+<div>
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=BodyOf4ibs&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodyOf4ibs&layout=compact&theme=cobalt)
-
+</div>
 ## Sobre Mim
 
 - 🔭 Atualmente trabalhando com segurança da informação na Callink
